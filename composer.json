@@ -1,0 +1,6 @@
+{
+    "name": "naibaho/hkbp",
+    "description": "proyek untuk membantu hkbp buhit dalam mengelola data kehadiran jemaat",
+    "require": {"endroid/qr-code": "^5.0"
+    }
+}
